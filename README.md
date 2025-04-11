@@ -1,3 +1,7 @@
 # Programação de Aplicativos Mobile I
 
-Aulas de Programação de Aplicativos MOnile I com o Prof João Siles
+# Algumas coisas de javascript 
+
+funções e Métodos
+
+Aulas de Programação de Aplicativos Mobile I com o Prof João Siles
